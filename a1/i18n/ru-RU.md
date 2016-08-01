@@ -2618,17 +2618,20 @@
 
   - Angular сниппеты, которые соблюдают приведенные здесь стили и руководства.
 
-    - Скачайте [Sublime Angular сниппеты](assets/sublime-angular-snippets.zip?raw=true)
+    - Скопируйте [Sublime Angular сниппеты](https://github.com/johnpapa/angular-styleguide/tree/master/a1/assets/sublime-angular-snippets)
     - Поместите все в вашу папку Packages
     - Перезапустите Sublime
     - В файле JavaScript напечатайте следующие команды после клавиши `TAB`
 
     ```javascript
-    ngcontroller // создает контроллер Angular
-    ngdirective // создает директиву Angular
-    ngfactory // создает фабрику Angular
     ngmodule // создает модуль Angular
+    ngcontroller // создает контроллер Angular
+    ngservice // создает сервис Angular
+    ngfactory // создает фабрику Angular
+    ngdirective // создает директиву Angular
+    ngfilter // создает фильтр Angular
     ```
+
 
 ### Visual Studio
 ###### [Style [Y251](#style-y251)]
